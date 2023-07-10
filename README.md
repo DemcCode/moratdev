@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Diego Mora</h1>
-<h3 align="center">Soy un desarrollador Full Stack 🤟.</h3>
+<h3 align="center">Soy un Desarrollador Full Stack 🤟.</h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moratdev&label=Profile%20views&color=0e75b6&style=flat" alt="moratdev" /> </p>
